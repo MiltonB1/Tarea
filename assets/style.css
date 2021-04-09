@@ -1,0 +1,188 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: 'lobster';
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color:indigo
+}
+
+.Inicio img{
+    height: 90px;
+    position: absolute;
+    top: 20px;
+    right: 1150px;
+    display:block;
+
+}
+
+header{
+    background-color: rgb(12, 151, 151);
+    height: 145px;
+    margin-top: 0px;
+    padding-top: 50px;
+}
+
+header ul{
+    position: absolute;
+    right: 300px;
+    list-style: none;
+    top: 50px;
+}
+
+header ul li a{
+    color:blueviolet;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+h5{
+    text-align: center;
+    font-family:sans-serif;
+    color:black;
+}
+
+p1{
+    text-align: center;
+    font-family:sans-serif;
+    color: black;
+    font-size: 50px;     
+}
+
+h2{
+    text-align: left;
+    top: 105px;
+    border: 15px rgb(12, 151, 151) solid;
+    background-color: rgb(12, 151, 151);
+    color: purple;
+}
+
+.imagen img{
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+p2{
+    text-align:center;
+    font-family:sans-serif;
+    color:black;
+    font-size: 15px;
+    margin-top: 70px; 
+    border : 10px rgb(12, 151, 151) solid;
+    background: rgb(12, 151, 151);
+    display: block;
+    margin-left: 250px;
+}
+  
+.img img{
+    width: 200px;
+    height: 300px;
+    float: left;
+    margin-left: 2px;
+    margin-top: 8px;
+}
+
+p3{
+    text-align:center;
+    font-family:sans-serif;
+    color:black;
+    font-size: 15px;
+    margin-top: 180px; 
+    border : 10px rgb(12, 151, 151) solid;
+    background: rgb(12, 151, 151);
+    display: block;
+    margin-left: 250px;
+}
+
+.vegito img{
+    width: 200px;
+    height: 300px;
+    float: left;
+    margin-left: 2px;
+    margin-top: 16px;
+}
+
+p4{
+    text-align:center;
+    font-family:sans-serif;
+    color:black;
+    font-size: 15px;
+    margin-top: 310px; 
+    border : 10px rgb(12, 151, 151) solid;
+    background: rgb(12, 151, 151);
+    display: block;
+    margin-left: 250px;
+}
+
+.banner img{
+    width: 200px;
+    height: 300px;
+    float: left;
+    margin-left: 2px;
+    margin-top: 16px;
+}
+
+p5{
+    text-align:center;
+    font-family:sans-serif;
+    color:black;
+    font-size: 15px;
+    margin-top: 310px; 
+    border : 10px rgb(12, 151, 151) solid;
+    background: rgb(12, 151, 151);
+    display: block;
+    margin-left: 250px;
+    
+}
+
+footer{
+    margin:0px;
+    padding:0px;
+    font-family: 'lobster';
+    text-align: center;
+}
+
+footer ul{
+    height: 100px;
+    margin: 0 auto;
+    width: 96.5%;
+    background-color: rgb(12, 151, 151);
+    float: left;
+    padding: 0px;
+   
+}
+
+li{
+    list-style: none;
+}
+
+
+footer ul li a{
+    color:blueviolet;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    
+}
+
+.imagen a{
+    color: purple; 
+}
+
+.img a{
+    color: purple; 
+}
+
+.vegito a{
+    color: purple; 
+}
+
+.banner a{
+    color: purple; 
+}
+
